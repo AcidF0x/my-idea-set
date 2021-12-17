@@ -18,5 +18,7 @@
     <mask>*Test.php</mask>
     <mask>*.php</mask>
     <mask>*.vue</mask>
+    <mask>*.js</mask>
+    <mask>*Controller.php</mask>
   </component>
 </application>
