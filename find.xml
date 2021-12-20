@@ -17,8 +17,8 @@
     <mask>*.inc</mask>
     <mask>*Test.php</mask>
     <mask>*.php</mask>
-    <mask>*.vue</mask>
-    <mask>*.js</mask>
     <mask>*Controller.php</mask>
+    <mask>*.js</mask>
+    <mask>*.vue</mask>
   </component>
 </application>
