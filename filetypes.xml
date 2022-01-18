@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="MigrateRentEndForbiddenArea.php" type="AUTO_DETECTED" />
+      <mapping pattern="dafgsdfjsakdf" type="AUTO_DETECTED" />
+      <mapping pattern="dafgsdfjsakdf'" type="AUTO_DETECTED" />
       <mapping pattern="totalWageSattelementTable" type="AUTO_DETECTED" />
       <mapping pattern="00_install_epel" type="AUTO_DETECTED" />
       <mapping ext="config" type="PLAIN_TEXT" />
