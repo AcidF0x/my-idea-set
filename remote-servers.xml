@@ -2,7 +2,7 @@
   <component name="RemoteServers">
     <remote-server name="Docker" type="docker">
       <configuration>
-        <option name="apiUrl" value="$USER_HOME$/.colima/docker.sock" />
+        <option name="apiUrl" value="unix://$USER_HOME$/.colima/docker.sock" />
       </configuration>
     </remote-server>
   </component>
