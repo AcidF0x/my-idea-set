@@ -20,5 +20,6 @@
     <mask>*Test.php</mask>
     <mask>*.vue</mask>
     <mask>*.php</mask>
+    <mask>*.vue, *.js</mask>
   </component>
 </application>
