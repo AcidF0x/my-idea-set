@@ -19,7 +19,7 @@
     <mask>*.js</mask>
     <mask>*Test.php</mask>
     <mask>*.vue</mask>
-    <mask>*.php</mask>
     <mask>*.vue, *.js</mask>
+    <mask>*.php</mask>
   </component>
 </application>
